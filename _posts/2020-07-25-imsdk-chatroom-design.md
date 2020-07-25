@@ -13,6 +13,8 @@ article_header:
 
 <img class="image image--sm" src="/post_imgs/img_computer.png"/>
 
+<!--more-->
+
 ## 客户端调用
 
 喜马IM系统后续会包含数个子系统，如私信、社群、直播聊天室等，各子系统都会拥有一个提供功能服务的单例。
