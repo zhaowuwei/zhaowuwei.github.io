@@ -12,7 +12,7 @@ article_header:
 
 针对不同场景，喜马IMSDK计划提供了一系列产品、技术解决方案，包括：客户端 IM 通信能力基础库、客户端 IM 界面组件以及服务端 API 等，利用这些解决方案，用户可以方便地在自身的应用中支持诸如私信、群聊、聊天室以及推送等IM业务服务。
 
-![电脑插图](post_imgs/img_computer.png)
+![电脑插图](https://github.com/zhaowuwei/zhaowuwei.github.io/blob/master/_posts/post_imgs/img_computer.png)
 
 ## 客户端调用
 
