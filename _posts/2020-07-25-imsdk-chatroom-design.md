@@ -5,7 +5,7 @@ tags: IM
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg
+    src: /post_imgs/food.webp
 ---
 
 喜马IMSDK是基于喜马拉雅内部即时通信的技术积累，结合以往的业务使用经验打造的即时通信的中台服务组件。借助IMSDK提供的中台服务，开发者不需要耗费资源搭建服务即可将IM即时通信能力快速集成到自己的应用产品中。
