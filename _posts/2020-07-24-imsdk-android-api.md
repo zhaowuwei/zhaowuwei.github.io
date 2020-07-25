@@ -1,4 +1,3 @@
-
 ---
 layout: article
 title: IMSDK群组功能 Android端api文档
@@ -314,5 +313,3 @@ void replyInviteJoinGroup(long groupId,
 void getMultiGroupDetailInfosRemote(List<Long> idList,
                                     IGetIMGroupListCallback callback);
 ```
-
-<!--more-->
