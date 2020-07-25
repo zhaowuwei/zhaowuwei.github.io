@@ -1,9 +1,6 @@
 ---
-layout: article
 title: 喜马IM系统 直播聊天室API设计
 tags: IM
-article_header:
-  type: cover
 ---
 
 喜马IMSDK是基于喜马拉雅内部即时通信的技术积累。
