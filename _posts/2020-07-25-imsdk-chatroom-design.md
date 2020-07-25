@@ -4,14 +4,14 @@ title: 喜马IM系统 直播聊天室API设计
 tags: IM
 article_header:
   type: cover
-  image:
-    src: /post_imgs/food.webp
 ---
 
 喜马IMSDK是基于喜马拉雅内部即时通信的技术积累。
 
+喜马IM系统后续会包含数个子系统，如私信、社群、直播聊天室等，各子系统都会拥有一个提供功能服务的单例。
 
-<img class="image image--sm" src="/post_imgs/img_computer.png"/>
+![电脑插图](/post_imgs/img_computer.png)
+
 
 <!--more-->
 
@@ -26,7 +26,6 @@ XmIMClient.getService(IPrivateMsgService.class)//私信服务
 XmIMClient.getService(IGroupChatService.class)//社群服务
 ```
 
-![电脑插图](/post_imgs/img_computer.png)
 
 由于IM系统的重构升级先由直播聊天室服务起步，本文只阐述直播聊天室相关的API设计。
 
