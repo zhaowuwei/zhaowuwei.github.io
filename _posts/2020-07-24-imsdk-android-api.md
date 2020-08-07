@@ -1,8 +1,7 @@
-//
 ---
 layout: article
 title: IMSDK群组功能 Android端api文档
-tags: IM
+tags: IM,TeXt
 article_header:
   type: cover
   image:
